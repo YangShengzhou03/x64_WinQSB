@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(4, 6, 0, 0),
+    prodvers=(4, 6, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        '040904B0',
+        [StringStruct('CompanyName', 'Yangshengzhou'),
+         StringStruct('FileDescription', '64位WinQSB安装程序'),
+         StringStruct('FileVersion', '4.6.0.0'),
+         StringStruct('InternalName', '64位WinQSB安装程序'),
+         StringStruct('LegalCopyright', 'Copyright © 2024 YangShengzhou 版权所有'),
+         StringStruct('OriginalFilename', 'WinQSB_4.6_x64.exe'),
+         StringStruct('ProductName', '64位WinQSB安装程序'),
+         StringStruct('ProductVersion', '4.6.0.0')])
+      ]),
+    VarFileInfo([VarStruct('Translation', [2052, 1200])])
+  ]
+)
